@@ -1,0 +1,14 @@
+id = c45968db-fd07-4453-bfa4-c06b6f3fa251
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"812948-6aca0b71-ebd0-487b-b45b-f224a5cdde0f","path":"New Collection.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+
+[relations.apiDefinition.metaData]
